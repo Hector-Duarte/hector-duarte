@@ -9,7 +9,7 @@
 
 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+holAAAAAAA...;I'm+a+CRAZY+football+fan;A+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
  
 
@@ -92,5 +92,7 @@
 <br>
 
 <div align='center'>
+
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 
