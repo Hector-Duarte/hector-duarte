@@ -7,7 +7,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hectorduarte240.hd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--texto Con Moviento-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Happy+Song...;doushite+doushite+doushite;kienai+kanashimi+mo;hokorobi+mo;anata+to+ireba;sorede+yokatta+ne;to+waraeru+no;ga+donna+ni;ureshii+ka;...Eine+Kleine...;;I+am+a+cell+phone+technician)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Favorite+Song.;Bring+me+the+horizon+;Happy+Song;...Eine+Kleine...;;I+am+a+cell+phone+technician)](https://git.io/typing-svg)
 
 <!--Body-->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
