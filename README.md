@@ -19,8 +19,6 @@
 - Personal website [link](https://rotceh.site/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://)
 
-<!--Imagen Con Moviento-->
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hector+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 
 <!--Linea Separadora--> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -71,6 +69,8 @@
 <div align='center'>
 
 
+<!--Imagen Con Moviento-->
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hector+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 
 
  ### 🐍 &nbsp;That's How Commits move ...
