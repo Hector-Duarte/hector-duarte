@@ -14,8 +14,8 @@
 <!--Body-->
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- Computer engineering student
+-  A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://rotceh.site/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://)
