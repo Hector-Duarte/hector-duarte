@@ -15,10 +15,10 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - Computer engineering student
--  A passionate Self-taught Front-end developer
+- A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
 - Personal website [link](https://rotceh.site/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/hector-duarte)
 
 <!--Linea Separadora--> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -32,6 +32,8 @@
 <p align="center">
 
 - **Languages**:
+- Español
+- Learning English
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
     
 - **Front-End Development**:
