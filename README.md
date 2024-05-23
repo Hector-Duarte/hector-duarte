@@ -9,7 +9,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hectorduarte240.hd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--texto Con Moviento Canciones-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=¡Favorite+Song!;Bring+me+the+horizon+;Happy+Song;Follow+You;Avalanche;Kenshi+Yonezu;Eine+Kleine;Lemon;Uchiage+Hanabi;Twenty+One+Pilots;Smithereens+Stressed+Out;Chlorine;Alec+Benjamin;Water+Fountain;Let+Me+Down+Slowly;Devil+Doesn't+Bargain;Cigarettes+After+Sex;Apocalypse;Cry;K;Proximamente....;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=¡Favorite+Song!;Bring+me+the+horizon+;Happy+Song;Follow+You;Avalanche;Kenshi+Yonezu;Eine+Kleine;Lemon;Uchiage+Hanabi;Twenty+One+Pilots;Smithereens+Stressed+Out;Chlorine;Alec+Benjamin;Water+Fountain;Let+Me+Down+Slowly;Devil+Doesn't+Bargain;Cigarettes+After+Sex;Apocalypse;Cry;K;Bad+Omens;Like+A+Villain;Just+Pretend;The+Death+Of+Peace+Of+Mind;Poppy;V.A.N+;I+Disagree;New+West;Those+Eyes;)](https://git.io/typing-svg)
 
 <!--Body-->
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
