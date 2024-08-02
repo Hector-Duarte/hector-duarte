@@ -13,8 +13,12 @@
 <!--texto Con Moviento Canciones-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=¡Favorite+Song!;Bring+me+the+horizon+;Happy+Song;Follow+You;Avalanche;Kenshi+Yonezu;Eine+Kleine;Lemon;Uchiage+Hanabi;Twenty+One+Pilots;Smithereens+Stressed+Out;Chlorine;Alec+Benjamin;Water+Fountain;Let+Me+Down+Slowly;Devil+Doesn't+Bargain;Cigarettes+After+Sex;Apocalypse;Cry;K;Bad+Omens;Like+A+Villain;Just+Pretend;The+Death+Of+Peace+Of+Mind;Poppy;V.A.N+;I+Disagree;New+West;Those+Eyes;Tom+Odell;Another+Love;Heal;Benson+Boone;Beatiful+Things;Ghost+Town;Shaya+Zamora;Cigarette;Blackbear+idfc;do+re+mi;;)](https://git.io/typing-svg)
 
-<!--Body-->
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<!--Body
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
+-->
+## 💫 About Me:
+
+
 
 - Computer engineering student
 - Currently learning Web Development by Self
@@ -29,8 +33,7 @@
 
 <!--Skills--> 
 <!--Imagen--> 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<img align="right" height="160" src="https://media1.tenor.com/m/pwfOFSuqAMAAAAAC/cat-error.gif"  />
 <!--Texto--> 
 <p align="center">
   
@@ -39,7 +42,14 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
+<!-- 
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+-->
   
 <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
