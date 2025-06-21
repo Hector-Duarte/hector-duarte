@@ -26,7 +26,7 @@
 
 - Computer engineering student
 - Currently learning Web Development by Self
-- Personal website [link](https://rotceh.site/)
+- Personal website [link](https://beacons.ai/rotcehkiller)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/hector-duarte)
 
 
