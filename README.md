@@ -84,21 +84,12 @@ Busco oportunidades para prácticas profesionales o empleos junior.
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Some+of+my+projects+in+progress" alt="Proyectos en progreso animado"/>
 </p>
 
-<!-- Ejemplo de proyectos destacados -->
-- [Portfolio Personal](https://github.com/Hector-Duarte/portfolio)  
-- [Landing Page: DevF](https://github.com/Hector-Duarte/devf-landingpage)
-- [Más proyectos...](https://github.com/Hector-Duarte?tab=repositories)
 
----
 
 <!-- Separador y contador de visitas -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separador"/>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Hector-Duarte/count.svg" alt="Contador de visitas"/>
-</p>
 
----
 
 <!-- GitHub Cat GIF -->
 <div align="center">
