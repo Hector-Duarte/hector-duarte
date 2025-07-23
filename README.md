@@ -6,9 +6,8 @@
 <!-- GIF lateral animado -->
 <img align="right" height="300px" width="320px" alt="GIF programando" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
----
 
-## 👨🏻‍💻 About Me
+ 👨🏻‍💻 About Me
 
 ¡Hola! Soy **Hector Duarte**, estudiante de ingeniería en computación, apasionado por el desarrollo web, la resolución de problemas y la tecnología.  
 Actualmente aprendo desarrollo web de forma autodidacta y colaboro en proyectos open-source.  
@@ -16,9 +15,9 @@ Busco oportunidades para prácticas profesionales o empleos junior.
 - 🌐 [Mi sitio personal](https://beacons.ai/rotcehkiller)
 - 📄 [Mi CV en LinkedIn](https://www.linkedin.com/in/hector-duarte)
 
----
 
-## 🎧 What I'm Listening To
+
+🎧 What I'm Listening To
 
 [![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hectorduarte240.hd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=hectorduarte240.hd&redirect=true)
 
@@ -31,7 +30,8 @@ Busco oportunidades para prácticas profesionales o empleos junior.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills
 
-<img align="right" height="160" src="https://media1.tenor.com/m/pwfOFSuqAMAAAAAC/cat-error.gif" alt="Cat error" />
+<img align="right"
+ height="160" src="https://media1.tenor.com/m/pwfOFSuqAMAAAAAC/cat-error.gif" alt="Cat error" />
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
