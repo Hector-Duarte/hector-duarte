@@ -10,7 +10,7 @@ Me apasiona construir interfaces limpias, funcionales y con buena experiencia de
 
 - 🎯 Buscando mi **primer empleo o pasantía** como Frontend Developer
 - 📍 Buenos Aires, Argentina · Disponible para trabajo remoto
-- 🌐 [Mi sitio personal](https://beacons.ai/rotcehkiller)
+- 🌐 [Mi sitio personal](https://hectorduarte.dev/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hector-duarte)
 
 ---
