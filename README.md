@@ -55,7 +55,7 @@ Me apasiona construir interfaces limpias, funcionales y con buena experiencia de
     </a>
   </li>
   <li>
-    <a href="https://beacons.ai/rotcehkiller" target="_blank">
+    <a href="https://hectorduarte.dev/" target="_blank">
       <img src="https://img.shields.io/badge/Sitio%20Personal-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Sitio personal" />
     </a>
   </li>
