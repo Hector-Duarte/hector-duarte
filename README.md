@@ -40,7 +40,7 @@ Me apasiona construir interfaces limpias, funcionales y con buena experiencia de
 - **Rol:** Colaborador Frontend
 - **Stack:** React.js · Tailwind CSS · JavaScript
 - **Equipo:** No Country · Proyecto completado en tiempo y forma hasta MVP
-- 🔗 [Ver proyecto](https://lnkd.in/dbMrSaHh) · [Repositorio](https://github.com/No-Country-simulation/S02-26-09-WebApp-Converter)
+- 🔗 [Ver proyecto](https://www.linkedin.com/posts/hector-duarte_frontend-reactjs-tailwindcss-activity-7437248830607118338-8w_Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAACIPOc0BZBt7cv2e0OT3DDNsCCtGQ_Np9fM) · [Repositorio](https://github.com/No-Country-simulation/S02-26-09-WebApp-Converter)
 
 ---
 
