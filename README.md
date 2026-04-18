@@ -161,7 +161,8 @@ Me apasiona construir interfaces **limpias, funcionales y accesibles**. Soy curi
       <h3 align="center">📊 PLEK — Sistema de Leads B2B</h3>
       <p align="center">
         <a href="https://b2b-plek-com-mx.web.app">
-          <img src="https://via.placeholder.com/500x280/20232a/38B2AC?text=PLEK+Dashboard" alt="PLEK preview" width="100%"/>
+          <img width="1914" height="959" alt="{2F65F9F5-49DC-4003-8D89-19AB5DA20ED3}" src="https://github.com/user-attachments/assets/e813ebbf-9348-485d-ba93-38bd8a5d0ac3"
+alt="PLEK preview" width="100%"/>
         </a>
       </p>
       <p><b>Plataforma de generación y cualificación de leads</b></p>
@@ -187,7 +188,8 @@ Me apasiona construir interfaces **limpias, funcionales y accesibles**. Soy curi
       <h3 align="center">🎬 Shortify</h3>
       <p align="center">
         <a href="https://github.com/No-Country-simulation/S02-26-09-WebApp-Converter">
-          <img src="https://via.placeholder.com/500x280/20232a/38B2AC?text=Shortify+Preview" alt="Shortify preview" width="100%"/>
+          <img width="1920" height="964" alt="{197B6A40-B466-4287-B80C-B7285DB5B256}" src="https://github.com/user-attachments/assets/afcf6f7f-7116-400e-ad23-713675fa1e59"
+ width="100%"/>
         </a>
       </p>
       <p><b>Conversor de video vertical con IA</b></p>
@@ -255,9 +257,7 @@ Me apasiona construir interfaces **limpias, funcionales y accesibles**. Soy curi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hector-Duarte&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hector-Duarte&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</p>
+
 
 ---
 
