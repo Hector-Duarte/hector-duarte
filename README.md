@@ -137,7 +137,7 @@ Me apasiona construir interfaces **limpias, funcionales y accesibles**. Soy curi
     <td width="60" align="center">📊</td>
     <td>
       <b>Frontend Developer — Proyecto PLEK</b><br/>
-      <i>No Country · Equipo 32 · 2025</i><br/>
+      <i>No Country · Equipo 32 · 2026</i><br/>
       <sub>Desarrollo de plataforma B2B de generación de leads con React 19, TypeScript y Firebase. Implementación de dashboard analítico, embudo de conversión y módulo de gestión de prospectos con scoring automático. Trabajo en equipo multidisciplinario (Frontend, UX/UI y Full Stack) con arquitectura limpia por capas.</sub>
     </td>
   </tr>
@@ -145,7 +145,7 @@ Me apasiona construir interfaces **limpias, funcionales y accesibles**. Soy curi
     <td width="60" align="center">🎬</td>
     <td>
       <b>Frontend Developer — Proyecto Shortify</b><br/>
-      <i>No Country · 2025</i><br/>
+      <i>No Country · 2026</i><br/>
       <sub>Desarrollo colaborativo en equipo remoto aplicando metodologías ágiles (Scrum). Colaboración con diseñadores UX/UI y backend developers para entregar un MVP funcional en tiempo y forma.</sub>
     </td>
   </tr>
