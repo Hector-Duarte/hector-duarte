@@ -232,11 +232,7 @@ alt="PLEK preview" width="100%"/>
       <h3>🌍 Idiomas</h3>
       <table>
         <tr>
-          <td>🇪🇸 <b>Español</b></td>
-          <td>Nativo</td>
-        </tr>
-        <tr>
-          <td>🇬🇧 <b>Inglés</b></td>
+          <td><b>Inglés</b></td>
           <td>Intermedio — Lectura técnica</td>
         </tr>
       </table>
