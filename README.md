@@ -24,7 +24,7 @@ const hector = {
   ubicacion: "Buenos Aires, Argentina 🇦🇷",
   educacion: "Ingeniería en Computación — UNTREF",
   enfoque: ["UI/UX", "Accesibilidad", "Código limpio"],
-  aprendiendoAhora: ["Next.js", "TypeScript"],
+  aprendiendoAhora: ["Next.js", "TypeScript", "Java"],
   buscando: "Primer empleo o pasantía 🚀",
   pasatiempos: ["Construir interfaces", "Aprender cosas nuevas"],
 };
