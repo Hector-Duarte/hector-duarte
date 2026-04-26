@@ -145,7 +145,7 @@ Me apasiona construir interfaces **limpias, funcionales y accesibles**. Soy curi
     <td width="60" align="center">🎬</td>
     <td>
       <b>Frontend Developer — Proyecto Shortify</b><br/>
-      <i>No Country · 2026</i><br/>
+      <i>No Country · Equipo 09 · 2026</i><br/>
       <sub>Desarrollo colaborativo en equipo remoto aplicando metodologías ágiles (Scrum). Colaboración con diseñadores UX/UI y backend developers para entregar un MVP funcional en tiempo y forma.</sub>
     </td>
   </tr>
