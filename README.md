@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hector-Duarte&label=Visitas%20al%20perfil&color=38B2AC&style=flat" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Hector-Duarte.Hector-Duarte&color=38B2AC" alt="Visitas al perfil" />
   <img src="https://img.shields.io/badge/Disponible-Inmediatamente-38B2AC?style=flat" alt="Disponible" />
   <img src="https://img.shields.io/badge/Modalidad-Remoto%20%7C%20H%C3%ADbrido-20232a?style=flat" alt="Modalidad" />
 </p>
