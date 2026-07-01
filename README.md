@@ -277,4 +277,5 @@ alt="PLEK preview" width="100%"/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat" height="100">
   <p><i>¡Gracias por visitar mi perfil! ⭐</i></p>
+  
 </div>
