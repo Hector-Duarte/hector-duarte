@@ -32,7 +32,7 @@ const hector = {
 
 Me apasiona construir interfaces **limpias, funcionales y accesibles**. Soy curioso por naturaleza, aprendo rápido y disfruto trabajar en equipo. Busco sumarme a un equipo donde pueda aportar, crecer y seguir desarrollándome como profesional.
 
-🌐 **Sitio personal:** [hectorduarte.dev](https://hectorduarte-dev.netlify.app/) · 💼 **LinkedIn:** [hector-duarte](https://www.linkedin.com/in/hector-duarte)
+🌐 **Sitio personal:** [hectorduarte.dev](https://hectorduarte-de.netlify.app/) · 💼 **LinkedIn:** [hector-duarte](https://www.linkedin.com/in/hector-duarte)
 
 ---
 
